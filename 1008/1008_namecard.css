@@ -13,7 +13,7 @@ html,body{
 
 body{
   background-color: #e0e3d3;
-  border-top: solid 20px linear-gradient(to right, #a593e0, #566270);
+  border-top: solid 20px #a593e0;
   border-bottom: solid 20px #566270;
   box-sizing: border-box;
   overflow: hidden;
